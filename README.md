@@ -21,6 +21,8 @@ which would be used in prediction of crop yield.
 ![image](https://user-images.githubusercontent.com/98142436/162389503-54f15609-7480-4ac3-8f9b-44952e94f864.png)
 Since target variable is skewed the Log Transformation was being used.
 5. Keras built deep neural networks were also used to get the best model for prediction.
+
 ![image](https://user-images.githubusercontent.com/98142436/162389728-12a4ce5f-29af-4a4e-8657-6b7e16479000.png)
+
 6.Final Output on Rabi Crops ->
 ![image](https://user-images.githubusercontent.com/98142436/162389891-44740056-3890-479a-a175-105cf130d026.png)
